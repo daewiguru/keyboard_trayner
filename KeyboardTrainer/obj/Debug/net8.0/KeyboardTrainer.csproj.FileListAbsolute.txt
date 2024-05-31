@@ -1,0 +1,17 @@
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\bin\Debug\net8.0\KeyboardTrainer.exe
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\bin\Debug\net8.0\KeyboardTrainer.deps.json
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\bin\Debug\net8.0\KeyboardTrainer.runtimeconfig.json
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\bin\Debug\net8.0\KeyboardTrainer.dll
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\bin\Debug\net8.0\KeyboardTrainer.pdb
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.AssemblyInfoInputs.cache
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.AssemblyInfo.cs
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.csproj.CoreCompileInputs.cache
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.dll
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\refint\KeyboardTrainer.dll
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.pdb
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.genruntimeconfig.cache
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\ref\KeyboardTrainer.dll
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\KeyboardTrainer.csproj.AssemblyReference.cache
+C:\Users\arosl\RiderProjects\KeyboardTrainer\KeyboardTrainer\obj\Debug\net8.0\Keyboard.5292ABBC.Up2Date

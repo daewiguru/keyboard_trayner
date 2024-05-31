@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KeyboardTrainer/1.0.0": {
+        "dependencies": {
+          "NuGet.Frameworks": "6.10.0"
+        },
+        "runtime": {
+          "KeyboardTrainer.dll": {}
+        }
+      },
+      "NuGet.Frameworks/6.10.0": {
+        "runtime": {
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "assemblyVersion": "6.10.0.107",
+            "fileVersion": "6.10.0.107"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeyboardTrainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NuGet.Frameworks/6.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bKaC87Q8rxK7ozFN9Eyo0YVUmd4r2s8pbNxHI7sHRqL16OAP0yEdCU5wpDkG9cKLHpZCahgoQUfAVC0UadVU+A==",
+      "path": "nuget.frameworks/6.10.0",
+      "hashPath": "nuget.frameworks.6.10.0.nupkg.sha512"
+    }
+  }
+}
